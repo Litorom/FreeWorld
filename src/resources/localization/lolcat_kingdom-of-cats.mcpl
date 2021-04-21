@@ -1,0 +1,1044 @@
+### entity
+
+## entity.particle
+## entity.particle end
+
+# AirWizard.java
+Air Wizard: Defeated!
+Air Wizard: Defeated!
+
+The Dungeon is now open!
+The Dungeon is now open!
+
+A costume lies on the ground...
+A costume lies on the ground...
+
+# Bed.java
+Can't sleep! 
+Can't sleep! 
+	
+Min 
+Min 
+	
+ Sec left!
+ Sec left!
+
+# DungeonChest.java
+You hear a noise from the surface!
+U hear noize frum teh surrface!
+
+# DeathChest.java
+Death Chest
+Death Chest
+
+# Player.java
+
+Crafting
+CRAFTIN
+
+Set your home!
+Set your home!
+
+Can't set home here!
+Can't set home here!
+
+Home Sweet Home!
+Home Sweet Home!
+
+Mode penalty: -2 health
+Mode penalty: -2 health
+
+You don't have a home!
+You don't have a home!
+
+You can't go home from here!
+You can't go home from here!
+ 
+### entity end
+
+### gfx
+### gfx end
+
+### item
+
+# ArmorItem.java
+
+Leather Armor
+Cow Skun Armor
+
+Snake Armor
+Cucumber Armur
+
+Iron Armor
+Irony Armur
+
+Gold Armor
+Gulden Armur
+
+Gem Armor
+Shineee Armur
+
+# BookItem.java
+
+Book
+Bokk
+
+Antidious
+Antidious
+
+# BucketItem.java
+
+Empty Bucket
+Empty Bucket
+
+Water Bucket
+Watr Bukkit
+
+Lava Bucket
+Lava Bukkit
+
+ Bucket
+ Bukkit
+ 
+# ClothingItem.java
+
+Red Clothes
+Red Clothes
+
+Blue Clothes
+Blue Clothes
+
+Green Clothes
+Green Clothes
+
+Yellow Clothes
+Yellow Clothes
+
+Black Clothes
+Black Clothes
+
+Orange Clothes
+Orange Clothes
+
+Purple Clothes
+Purple Clothes
+
+Cyan Clothes
+Cyan Clothes
+
+Reg Clothes
+Reg Clothes
+
+# FoodItem.java
+
+Bread
+Bread
+
+Apple
+Appel
+
+Raw Pork
+Raw Pork
+
+Raw Fish
+Raw Fish
+
+Raw Beef
+Raw Beef
+
+Pork Chop
+Pork Chop
+
+Cooked Fish
+Cooked Fish
+
+Cooked Pork
+Cooked Pork
+
+Steak
+Steak
+
+Gold Apple
+Gulden Appel
+
+# FurnitureItem.java
+
+Cow Spawner
+Milk Maeker Spon ec
+
+Pig Spawner
+Pig Spawner
+
+Sheep Spawner
+Sheep Spawner
+
+Slime Spawner
+Slime Spawner
+
+Zombie Spawner
+Zombie Spawner
+
+Creeper Spawner
+Creeper Spawner
+
+Skeleton Spawner
+Skeleton Spawner
+
+Snake Spawner
+Snake Spawner
+
+Knight Spawner
+Knight Spawner
+
+AirWizard Spawner
+AirWizard Spawner
+
+Workbench
+Workbench
+
+Oven
+Oven
+
+Furnace
+Furnace
+
+Anvil
+Anvil
+
+Enchanter
+Enchanter
+
+Loom
+Loom
+
+Lantern
+Lanturn
+
+Iron Lantern
+Irony Lanturn
+
+Gold Lantern
+Gulden Lanturn
+
+Tnt
+Tnt
+
+Bed
+Bed
+
+Chest
+Chest
+
+# PotionType.java
+
+None Potion
+None Potion
+
+Speed Potion
+Speed Potion
+
+Light Potion
+Light Potion
+
+Swim Potion
+Swim Potion
+
+Energy Potion
+Energy Potion
+
+Regen Potion
+Regen Potion
+
+Health Potion
+Health Potion
+
+Time Potion
+Time Potion
+
+Lava Potion
+Lava Potion
+
+Shield Potion
+Shield Potion
+
+Haste Potion
+Haste Potion
+
+Escape Potion
+Escape Potion
+
+Potion
+Potion
+
+# PowerGloveItem.java
+
+Power Glove
+Power Glove
+
+# StackableItem.java
+
+Wood
+Wood
+
+Stone
+Stone
+
+Leather
+Leather
+
+Wheat
+Wheat
+
+Key
+Key
+
+arrow
+arrow
+
+string
+string
+
+Coal
+Coal
+
+Iron Ore
+Iron Ore
+
+Lapis
+Lapis
+
+Gold Ore
+Gold Ore
+
+Iron
+Iron
+
+Gold
+Gold
+
+Rose
+Rose
+
+GunPowder
+GunPowder
+
+Slime
+Slime
+
+glass
+glass
+
+cloth
+cloth
+
+gem
+Oooo Shineee!
+
+Scale
+Scale
+
+Shard
+Shard
+
+# TileItem.java
+
+Flower
+Flower
+
+Acorn
+Acorn
+
+Dirt
+Dirt
+
+Plank
+Plank
+
+Plank Wall
+Plank Wall
+
+Wood Door
+Wood Door
+
+Stone Brick
+Stone Brick
+
+Stone Wall
+Stone Wall
+
+Stone Door
+Stone Door
+
+Obsidian Brick
+Obsidian Brick
+
+Obsidian Wall
+Obsidian Wall
+
+Obsidian Door
+Obsidian Door
+
+Wool
+Wool
+
+Red Wool
+Red Wool
+
+Blue Wool
+Blue Wool
+
+Green Wool
+Green Wool
+
+Yellow Wool
+Yellow Wool
+
+Black Wool
+Black Wool
+
+Sand
+Sand
+
+Cactus
+Cactus
+
+Seeds
+Seeds
+
+Grass Seeds
+Grass Seeds
+
+Bone
+Bone
+
+Cloud
+Cloud
+
+Can only be placed on 
+Can only be placed on 
+
+Dig a hole first!
+Dig a hole first!
+
+# ToolItem.java
+
+Wood
+Wood
+
+Rock
+Rock
+
+Iron
+Iron
+
+Gold
+Gold
+
+Gem
+Oooo Shineee!
+
+Fishing Rod
+Fishing Rod
+
+# ToolType.java
+
+Shovel
+Shovel
+
+Hoe
+Hoe
+
+Sword
+Sword
+
+Pickaxe
+Pickaxe
+
+Axe
+Axe
+
+Bow
+Bow
+
+FishingRod
+FishingRod
+
+Claymore
+Claymore
+
+# TorchItem.java
+
+Torch
+Torchie
+
+### item end
+
+### level
+
+## tile 
+
+# Tiles.java
+
+Gem Ore
+Gem Ore
+
+Wood Planks
+Wood Planks
+
+Stone Bricks
+Stone Bricks
+
+Obsidian
+Obsidian
+
+Wood Wall
+Wood Wall
+
+Grass
+Grass
+
+Dirt
+Durt
+
+Flower
+Flower
+
+Hole
+Hole
+
+Stairs Up
+Stairs Up
+
+Stairs Down
+Stairs Down
+
+Water
+Water
+
+Rock
+Rock
+
+Tree
+Tree
+
+Tree Sapling
+Tree Sapling
+
+Sand
+Sand
+
+Cactus
+Cakcus
+
+Cactus Sapling
+Cakcus Saplin
+
+Lava
+Lava
+
+Lava Brick
+Lava Bric
+
+Explode
+Splode
+
+Farmland
+Farmland
+
+Wheat
+Wheat
+
+Hard Rock
+Hard Rock
+
+Infinite Fall
+Infinite Fall
+
+Cloud
+Cloud
+
+Cloud Cactus
+Cloud Cactus
+
+# OreTile.java
+
+Iron
+Irony
+
+Lapis
+Lapiz
+
+Gold
+Guld
+
+Gem
+Ooooo Shineee!
+
+Ore
+Ore
+
+## tile end
+
+### level end
+
+### network
+
+# MinicraftClient.java
+
+host not found
+host not found
+
+unable to get localhost address
+unable to get localhost address
+
+### network end
+
+### saveload
+### saveload end
+
+### screen
+
+## entry
+
+# BooleanEntry.java
+
+On
+On
+
+Off
+Off
+
+## entry end
+
+# BookDisplay.java
+
+There is nothing of use here.
+There is nothing of use here.
+
+Still nothing... :P
+Still nothing... :P
+
+# CraftingMenu.java
+
+Have:
+Havez:
+
+Cost:
+Cozt:
+
+# DeadMenu.java
+
+Time: 
+Tiem:
+
+Score: 
+Ur pointz:
+
+Quit
+Teh Big Menu
+
+Respawn
+Remeow
+
+You died! Aww!
+U dies, sad kitteh :(
+
+# Displays.java
+
+With the default controls...\n\nMove your character with arrow keys or WSAD. Press C to attack and X to open the inventory, and to use items. Select an item in the inventory to equip it.\n\nKill the air wizard to win the game!
+With the default controls...\n\nMove your character with arrow keys or WSAD. Press C to attack and X to open the inventory, and to use items. Select an item in the inventory to equip it.\n\nKill the air wizard to win the game!
+
+# EndGameDisplay.java
+
+Player Score: 
+Ur Playr Pointz:
+
+<Bonuses>
+<Bonuses>
+
+Final Score: 
+Ur Finla Pointz:
+
+Exit to Menu
+Sayv and cwit tu titel
+
+# InfoDisplay.java
+
+Time Playd:
+Tiem Played:
+
+Current Score: 
+Ur Purrenz Pointz:
+
+Exit
+Sayv and cwit tu titel
+
+Player Stats
+Catistics
+
+# KeyInputMenu.java
+
+Controls
+Controlz
+
+Press the desired
+Press the desired
+
+key sequence
+key sequence
+
+Are you sure you want to reset all key bindings to the default keys?
+Are you sure you want to reset all key bindings to the default keys?
+
+enter to confirm
+enter to confirm
+
+escape to cancel
+escape to cancel
+
+Confirm Action
+Confirm Action
+
+Press C/Enter to change key binding
+Press C/Enter to change key binding
+
+Press A to add key binding
+Press A to add key binding
+
+Shift-D to reset all keys to default
+Shift-D to reset all keys to default
+
+ESCAPE to Return to menu
+ESCAPE to Return to menu 
+
+# LoadingDisplay.java
+
+Loading
+Reeding Wurld Stuffz
+
+World
+Wurld
+
+# MultiplayerMenu.java
+
+waiting...
+waiting...
+
+nothing
+nothing
+
+attempting log in
+attempting log in
+
+no internet connection, but no login data saved; cannot enter offline mode.
+no internet connection, but no login data saved; cannot enter offline mode.
+
+connecting to server
+connecting to server
+
+logging in
+logging in
+
+saving credentials
+saving credentials
+
+login failed.
+login failed.
+
+problem with saved login data; please exit and login again.
+problem with saved login data; please exit and login again.
+
+Internal server error: Couldn't fetch username from uuid
+Internal server error: Couldn't fetch username from uuid
+
+logged in as: 
+logged in as: 
+
+offline mode: local servers only
+offline mode: local servers only
+
+Enter ip address to connect to:
+Enter ip address to connect to:
+
+Press Shift-Escape to logout
+Press Shift-Escape to logout
+
+Enter email:
+Enter email:
+
+Enter password:
+Enter password:
+
+field is blank
+field is blank
+
+get an account at:
+get an account at:
+
+Loading 
+Lodin Stuffz
+
+ from server
+ from server
+ 
+Could not connect to server:
+Could not connect to server:
+
+Press 
+Press 
+
+ to return
+ to return
+
+# OptionsMenu.java
+
+Change Key Bindings
+Chaenj Controlz
+
+Options
+Opshuns
+
+Change language
+Chaenj wat u re speek
+
+# PauseMenu.java
+
+Return to Game
+kk im bak
+
+Options
+Opshuns
+
+Make World Multiplayer
+Opn teh netwurks 2 kittehz
+
+Save Game
+Savin teh Wurld?
+
+
+
+ and 
+ and 
+ 
+ to Scroll
+ to Scroll
+ 
+: Choose
+: Choose
+ 
+Paused
+Pawz
+
+Main Menu
+Sayv and cwit tu titel
+
+# PauseDisplay.java
+
+No
+Naw
+
+Yes
+Yiss
+
+# PlayerInvMenu.java
+
+Inventory
+Secret fur pouch
+
+# TitleMenu.java
+
+Play
+Loneleh Kitteh
+
+Load World
+Lod Wurld
+
+New World
+Maek new Wurld
+
+Join Online World
+I can haz friendz
+
+Options
+Opshuns
+
+Help
+U needz Halp
+
+Instructions
+Instructions
+
+Storyline Guide (for the weak)
+0ld Kat's tail (fur N00Bs)
+
+About
+Abutt Mee
+
+Quit
+kthxbai
+
+ to select
+ to select
+ 
+ to accept
+ Yiss
+ 
+ to return
+ Dun
+
+# WorldEditMenu.java
+
+New World Name:
+Wurld Naem:
+
+Are you sure you want to delete
+U SHUR U WANT 2 DELET
+
+This can not be undone!
+Wial beh lozt furevr (longir thah kittehz napz)
+
+ to confirm
+ DELEET!
+ 
+ to cancel
+ Nu
+
+# WorldGenMenu.java
+
+World Seed
+Namber fur wurld
+
+Enter World Name
+Enter World Name
+
+Trouble with world name?
+Trouble with world name?
+
+by default, w and s move the cursor up and down. This can be changed in the key binding menu. To type the letter instead of moving the cursor, hold the shift key while typing the world name.
+by default, w and s move the cursor up and down. This can be changed in the key binding menu. To type the letter instead of moving the cursor, hold the shift key while typing the world name.
+
+Create World
+Maek New Wurld
+
+World Gen Options
+World Gen Options
+
+# WorldSelectMenu.java
+
+Copy
+Copy
+
+Rename
+Rename
+
+Delete
+Delete
+
+ to confirm
+ Yiss
+ 
+ to return
+ Nu
+ 
+Select World
+Select World
+
+Select a World to
+Select a World to
+
+# LocalizationMenu.java
+
+Languages
+Wat u re speeks
+
+Language
+Wat u re speek
+
+Select
+Select
+
+### screen end
+
+### minicraft
+
+# Settings.java
+
+Max FPS
+Max FPS
+
+Difficulty
+Hardnez
+
+Easy
+Regulr
+
+Normal
+Double Cheezburg
+
+Hard
+Cake
+
+Game Mode
+Game Mode
+
+Survival
+SIRVIVL
+
+Creative
+YOLO
+
+Hardcore
+HAX
+
+Score
+Pointz
+
+Time (Score Mode)
+Tiem (Pointz Maude)
+
+Sound
+Soundz
+
+Autosave
+AUT0SAVIN
+
+World Size
+Wurld Sizee
+
+World Theme
+Wurld Meme
+
+Normal
+Narmul
+
+Forest
+Manies Treez
+
+Desert
+Dessert
+
+Plains
+Purrin
+
+Hell
+Devil Kitteh
+
+Terrain Type
+Wurld Typ
+
+Island
+Lone Lan
+
+Box
+Litter Box
+
+Mountain
+Lan Peekk
+
+Irregular
+Irregular
+
+Wear Suit
+Wear Suit
+
+### minicraft end
